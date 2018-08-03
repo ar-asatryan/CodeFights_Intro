@@ -1,0 +1,6 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t4_AdjElProd\bin\Debug\t4_AdjElProd.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t4_AdjElProd\bin\Debug\t4_AdjElProd.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t4_AdjElProd\bin\Debug\t4_AdjElProd.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t4_AdjElProd\obj\Debug\t4_AdjElProd.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t4_AdjElProd\obj\Debug\t4_AdjElProd.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t4_AdjElProd\obj\Debug\t4_AdjElProd.pdb

@@ -1,0 +1,6 @@
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t3_PalindromeString\bin\Debug\t3_PalindromeString.exe.config
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t3_PalindromeString\bin\Debug\t3_PalindromeString.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t3_PalindromeString\bin\Debug\t3_PalindromeString.pdb
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t3_PalindromeString\obj\Debug\t3_PalindromeString.csproj.CoreCompileInputs.cache
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t3_PalindromeString\obj\Debug\t3_PalindromeString.exe
+C:\Users\asatryan\Desktop\Aro_files\PROGRAMMING\C#\Projects\CodeFights\CodeFights_Intro\t3_PalindromeString\obj\Debug\t3_PalindromeString.pdb
